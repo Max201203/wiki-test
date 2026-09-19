@@ -11,6 +11,16 @@
         "trust": "unverified"
       },
       "id": "v_mu8beyzz"
+    },
+    {
+      "name": "Playbooks & Policies",
+      "kind": "board",
+      "groupBy": "type",
+      "sortBy": "title",
+      "sortDir": "asc",
+      "dateField": "generatedAt",
+      "filters": {},
+      "id": "v_mu8bf205"
     }
   ]
 }
