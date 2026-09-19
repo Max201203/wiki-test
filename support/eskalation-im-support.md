@@ -2,14 +2,15 @@
 type: Playbook
 title: Eskalation im Support
 description: Wann ein Ticket an Engineering geht und mit welchen Informationen.
+icon: 📞
 tags:
   - support
   - oncall
   - eskalation
-status: draft
+status: stable
 generated:
   by: human:Max201203
-  at: '2026-09-19T11:38:41Z'
+  at: '2026-09-19T11:38:45Z'
 ---
 
 # Auslöser
