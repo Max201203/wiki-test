@@ -1,6 +1,7 @@
 # Update Log
 
 ## 2026-09-19
+* **Creation**: Established [Altes Intranet-Konzept](/handbuch/altes-intranet-konzept.md).
 * **Creation**: Established [Roadmap Q4 2026](/produkt/roadmap-q4-2026.md).
 * **Creation**: Established [Eskalation im Support](/support/eskalation-im-support.md).
 * **Creation**: Established [Passwort-Richtlinie](/sicherheit/passwort-richtlinie.md).
