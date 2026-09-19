@@ -2,13 +2,18 @@
 type: Policy
 title: Passwort-Richtlinie
 description: Mindestanforderungen an Passwörter und Zwei-Faktor-Authentifizierung.
+icon: 🔒
 tags:
   - sicherheit
   - policy
-status: draft
+status: stable
 generated:
   by: human:Max201203
-  at: '2026-09-19T11:38:33Z'
+  at: '2026-09-19T11:38:38Z'
+verified:
+  - by: human:Max201203
+    at: '2026-09-19T09:05:00Z'
+stale_after: '2027-03-01T00:00:00Z'
 ---
 
 # Geltungsbereich
