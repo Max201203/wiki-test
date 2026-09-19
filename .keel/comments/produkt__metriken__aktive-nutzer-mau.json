@@ -1,0 +1,15 @@
+{
+  "path": "produkt/metriken/aktive-nutzer-mau.md",
+  "comments": [
+    {
+      "id": "c_mu8benfv_j47yrf",
+      "author": "human:Max201203",
+      "authorName": "Max201203",
+      "avatar": "https://avatars.githubusercontent.com/u/135325791?v=4",
+      "body": "Die Service-Accounts sollten wir wirklich rausfiltern. Ich mache ein Ticket auf.",
+      "createdAt": "2026-09-19T11:39:28.939Z",
+      "resolved": false,
+      "anchor": null
+    }
+  ]
+}
