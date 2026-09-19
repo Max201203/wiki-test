@@ -2,14 +2,16 @@
 type: Policy
 title: Spesen und Reisekosten
 description: Was erstattet wird, in welcher Höhe und bis wann eingereicht werden muss.
+icon: 🧾
 tags:
   - handbuch
   - policy
   - finanzen
-status: draft
+status: stable
 generated:
   by: human:Max201203
-  at: '2026-09-19T11:36:13Z'
+  at: '2026-09-19T11:36:17Z'
+order: 3
 ---
 
 # Geltungsbereich
