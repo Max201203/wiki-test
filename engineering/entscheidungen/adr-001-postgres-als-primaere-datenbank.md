@@ -2,14 +2,23 @@
 type: Decision Record
 title: 'ADR-001: Postgres als primäre Datenbank'
 description: Warum Postgres und nicht MongoDB oder DynamoDB.
+icon: 🧱
 tags:
   - adr
   - engineering
   - datenbank
-status: draft
+status: stable
 generated:
   by: human:Max201203
-  at: '2026-09-19T11:37:08Z'
+  at: '2026-09-19T11:38:06Z'
+verified:
+  - by: human:Max201203
+    at: '2026-09-19T09:00:00Z'
+sources:
+  - id: lasttest
+    resource: https://wiki.nordlicht/eng/lasttest-2025
+    title: Lasttest 2025
+order: 1
 ---
 
 # Kontext
