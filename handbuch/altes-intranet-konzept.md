@@ -2,13 +2,15 @@
 type: Article
 title: Altes Intranet-Konzept
 description: Überholt — archiviert, weil andere Seiten noch darauf verweisen.
+icon: 🗂️
 tags:
   - handbuch
   - archiv
-status: draft
+status: deprecated
 generated:
   by: human:Max201203
-  at: '2026-09-19T11:39:06Z'
+  at: '2026-09-19T11:39:10Z'
+archived: true
 ---
 
 > [!CAUTION]
