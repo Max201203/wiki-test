@@ -1,0 +1,16 @@
+{
+  "views": [
+    {
+      "name": "Needs review",
+      "kind": "table",
+      "groupBy": "type",
+      "sortBy": "generatedAt",
+      "sortDir": "desc",
+      "dateField": "generatedAt",
+      "filters": {
+        "trust": "unverified"
+      },
+      "id": "v_mu8beyzz"
+    }
+  ]
+}
