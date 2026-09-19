@@ -9,7 +9,7 @@ tags:
 status: draft
 generated:
   by: human:Max201203
-  at: '2026-09-19T11:30:01Z'
+  at: '2026-09-19T11:30:56Z'
 ---
 
 [TOC]
@@ -55,4 +55,4 @@ kubectl -n prod exec deploy/pgbouncer -- pgbouncer -R
 # Nach dem Incident
 
 > [!NOTE]
-> Postmortem innerhalb von 5 Werktagen, schuldfrei.X
+> Postmortem innerhalb von 5 Werktagen, schuldfrei.X!
