@@ -1,6 +1,7 @@
 # Update Log
 
 ## 2026-09-19
+* **Creation**: Established [Aktive Nutzer (MAU)](/produkt/metriken/aktive-nutzer-mau.md).
 * **Creation**: Established [ADR-002: Eigener Event-Bus](/engineering/entscheidungen/adr-002-eigener-event-bus.md).
 * **Creation**: Established [ADR-001: Postgres als primäre Datenbank](/engineering/entscheidungen/adr-001-postgres-als-primaere-datenbank.md).
 * **Creation**: Established [Deployment](/engineering/deployment.md).
