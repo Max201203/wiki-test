@@ -2,13 +2,15 @@
 type: Decision Record
 title: 'ADR-002: Eigener Event-Bus'
 description: Zurückgenommen — wir nutzen seit 2026 einen verwalteten Dienst.
+icon: 🧱
 tags:
   - adr
   - engineering
-status: draft
+status: deprecated
 generated:
   by: human:Max201203
-  at: '2026-09-19T11:38:19Z'
+  at: '2026-09-19T11:38:23Z'
+order: 2
 ---
 
 > [!CAUTION]
