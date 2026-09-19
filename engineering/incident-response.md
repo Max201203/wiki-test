@@ -9,7 +9,7 @@ tags:
 status: draft
 generated:
   by: human:Max201203
-  at: '2026-09-19T11:31:23Z'
+  at: '2026-09-19T11:50:28Z'
 ---
 
 [TOC]
@@ -23,8 +23,8 @@ Status der Rufbereitschaft: <span data-status="green">Aktiv</span>
 
 # Sofortmaßnahmen
 
-- [ ] Incident-Kanal eröffnen
-- [ ] Incident Lead benennen
+- [ ] Incident-Kanal eröffnen @Max201203 📅 2026-09-12
+- [ ] Incident Lead benennen @Max201203
 - [ ] Statusseite aktualisieren
 
 # Eskalationsstufen
