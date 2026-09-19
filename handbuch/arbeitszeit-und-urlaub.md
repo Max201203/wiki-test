@@ -2,14 +2,16 @@
 type: Policy
 title: Arbeitszeit und Urlaub
 description: Vertrauensarbeitszeit, Kernzeit und wie Urlaub beantragt wird.
+icon: 🗓️
 tags:
   - handbuch
   - policy
   - hr
-status: draft
+status: stable
 generated:
   by: human:Max201203
-  at: '2026-09-19T11:36:06Z'
+  at: '2026-09-19T11:36:11Z'
+order: 2
 ---
 
 # Geltungsbereich
