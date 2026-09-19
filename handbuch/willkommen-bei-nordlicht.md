@@ -2,13 +2,15 @@
 type: Guide
 title: Willkommen bei Nordlicht
 description: Der Einstieg für alle neuen Kolleginnen und Kollegen in der ersten Woche.
+icon: 👋
 tags:
   - onboarding
   - handbuch
-status: draft
+status: stable
 generated:
   by: human:Max201203
-  at: '2026-09-19T11:36:00Z'
+  at: '2026-09-19T11:36:04Z'
+order: 1
 ---
 
 [TOC]
