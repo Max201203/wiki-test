@@ -2,13 +2,15 @@
 type: Guide
 title: Code Review
 description: Was wir in einem Review erwarten und was ausdrücklich nicht.
+icon: 👀
 tags:
   - engineering
   - qualitaet
-status: draft
+status: stable
 generated:
   by: human:Max201203
-  at: '2026-09-19T11:36:38Z'
+  at: '2026-09-19T11:36:43Z'
+order: 2
 ---
 
 # Ziel
