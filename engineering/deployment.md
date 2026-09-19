@@ -2,14 +2,16 @@
 type: Playbook
 title: Deployment
 description: Wie Code nach Produktion kommt und wie ein Rollback funktioniert.
+icon: 🚀
 tags:
   - engineering
   - deployment
   - oncall
-status: draft
+status: stable
 generated:
   by: human:Max201203
-  at: '2026-09-19T11:36:46Z'
+  at: '2026-09-19T11:36:50Z'
+order: 3
 ---
 
 # Auslöser
