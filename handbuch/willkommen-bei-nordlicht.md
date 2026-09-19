@@ -9,7 +9,7 @@ tags:
 status: stable
 generated:
   by: human:Max201203
-  at: '2026-09-19T11:36:04Z'
+  at: '2026-09-19T11:50:25Z'
 order: 1
 ---
 
@@ -20,9 +20,9 @@ order: 1
 > [!TIP]
 > Du musst nichts davon auswendig lernen. Diese Seite ist zum Nachschlagen da.
 
-- [ ] Laptop abgeholt und eingerichtet
-- [ ] Zugang zu GitHub, Slack und dem Wiki
-- [ ] Kennenlerngespräch mit dem Team
+- [ ] Laptop abgeholt und eingerichtet @Max201203 📅 2026-09-22
+- [ ] Zugang zu GitHub, Slack und dem Wiki @Max201203 📅 2026-09-19
+- [ ] Kennenlerngespräch mit dem Team @Max201203 📅 2026-10-15
 - [ ] Erste Aufgabe gemeinsam mit der Patin oder dem Paten
 
 # Wie wir arbeiten
