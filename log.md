@@ -1,6 +1,7 @@
 # Update Log
 
 ## 2026-09-19
+* **Creation**: Established [ADR-001: Postgres als primäre Datenbank](/engineering/entscheidungen/adr-001-postgres-als-primaere-datenbank.md).
 * **Creation**: Established [Deployment](/engineering/deployment.md).
 * **Creation**: Established [Code Review](/engineering/code-review.md).
 * **Creation**: Established [Onboarding für Entwickler](/engineering/onboarding-fuer-entwickler.md).
