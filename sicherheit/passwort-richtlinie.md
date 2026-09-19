@@ -9,7 +9,7 @@ tags:
 status: stable
 generated:
   by: human:Max201203
-  at: '2026-09-19T11:38:38Z'
+  at: '2026-09-19T11:50:33Z'
 verified:
   - by: human:Max201203
     at: '2026-09-19T09:05:00Z'
@@ -34,7 +34,7 @@ Alle Konten, die Zugriff auf Kundendaten haben.
 
 # Bei Verdacht auf Kompromittierung
 
-- [ ] Passwort sofort ändern
+- [ ] Passwort sofort ändern @Max201203
 - [ ] Sessions überall beenden
 - [ ] Sicherheitsteam informieren
 - [ ] Vorfall dokumentieren
