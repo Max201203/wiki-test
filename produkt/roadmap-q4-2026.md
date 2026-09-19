@@ -9,7 +9,7 @@ tags:
 status: draft
 generated:
   by: human:Max201203
-  at: '2026-09-19T11:39:03Z'
+  at: '2026-09-19T11:50:30Z'
 ---
 
 > [!NOTE]
@@ -25,8 +25,8 @@ generated:
 
 # Offene Fragen
 
-- [ ] Reicht ein Audit-Log ohne Export für die erste Version?
-- [ ] Wer übernimmt das Self-Service-Onboarding fachlich?
+- [ ] Reicht ein Audit-Log ohne Export für die erste Version? @Max201203 📅 2026-09-30
+- [ ] Wer übernimmt das Self-Service-Onboarding fachlich? 📅 2026-09-30
 - [ ] Brauchen wir dafür mehr Daten aus [Aktive Nutzer (MAU)](/produkt/metriken/aktive-nutzer-mau.md)?
 
 # Nicht in diesem Quartal
