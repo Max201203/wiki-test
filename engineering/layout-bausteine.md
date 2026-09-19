@@ -8,7 +8,7 @@ tags:
 status: draft
 generated:
   by: human:Max201203
-  at: '2026-09-19T11:59:27Z'
+  at: '2026-09-19T11:59:59Z'
 ---
 
 [CHILDREN]
@@ -45,4 +45,4 @@ Auf dem Handy wird umgebrochen.
 
 # Farbe
 
-Das hier ist <span style="color: #c0392b">wichtig</span> und das hier <span style="color: #0f7b3f">erledigt</span>.
+Das hier ist <span style="color: rgb(192, 57, 43);">wichtig</span> und das hier <span style="color: rgb(15, 123, 63);">erledigt</span>..
