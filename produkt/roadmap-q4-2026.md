@@ -2,13 +2,14 @@
 type: Article
 title: Roadmap Q4 2026
 description: Entwurf — die drei Themen, auf die wir uns im vierten Quartal festlegen wollen.
+icon: 🎯
 tags:
   - produkt
   - roadmap
 status: draft
 generated:
   by: human:Max201203
-  at: '2026-09-19T11:38:58Z'
+  at: '2026-09-19T11:39:03Z'
 ---
 
 > [!NOTE]
