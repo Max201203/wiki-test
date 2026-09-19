@@ -9,7 +9,12 @@
       "body": "Die Service-Accounts sollten wir wirklich rausfiltern. Ich mache ein Ticket auf.",
       "createdAt": "2026-09-19T11:39:28.939Z",
       "resolved": false,
-      "anchor": null
+      "anchor": null,
+      "reactions": {
+        "👍": [
+          "human:Max201203"
+        ]
+      }
     },
     {
       "id": "c_mu8bzhps_7thhsp",
