@@ -1,0 +1,14 @@
+{
+  "templates": [
+    {
+      "id": "t_mu8c0oh5",
+      "label": "Nordlicht ADR",
+      "description": "Unser Format für Architekturentscheidungen.",
+      "type": "Decision Record",
+      "tags": [
+        "adr"
+      ],
+      "body": "# Kontext\n\n# Optionen\n\n| Option | Pro | Contra |\n| --- | --- | --- |\n|  |  |  |\n\n# Entscheidung\n\n> [!IMPORTANT]\n> Eine Entscheidung, ein Satz.\n\n# Konsequenzen\n\n- [ ] \n"
+    }
+  ]
+}
