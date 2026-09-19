@@ -2,13 +2,15 @@
 type: Guide
 title: Onboarding für Entwickler
 description: Vom leeren Laptop bis zum ersten Merge — in etwa einem Tag.
+icon: 🧭
 tags:
   - onboarding
   - engineering
-status: draft
+status: stable
 generated:
   by: human:Max201203
-  at: '2026-09-19T11:36:31Z'
+  at: '2026-09-19T11:36:36Z'
+order: 1
 ---
 
 [TOC]
