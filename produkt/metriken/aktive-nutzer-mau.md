@@ -2,13 +2,15 @@
 type: Metric
 title: Aktive Nutzer (MAU)
 description: Definition der monatlich aktiven Nutzer und wie sie berechnet werden.
+icon: 📈
 tags:
   - metrik
   - produkt
-status: draft
+status: stable
 generated:
   by: human:Max201203
-  at: '2026-09-19T11:38:26Z'
+  at: '2026-09-19T11:38:30Z'
+stale_after: '2026-08-01T00:00:00Z'
 ---
 
 # Definition
