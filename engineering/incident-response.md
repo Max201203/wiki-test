@@ -9,7 +9,7 @@ tags:
 status: draft
 generated:
   by: human:Max201203
-  at: '2026-09-19T11:30:56Z'
+  at: '2026-09-19T11:31:23Z'
 ---
 
 [TOC]
@@ -24,9 +24,7 @@ Status der Rufbereitschaft: <span data-status="green">Aktiv</span>
 # Sofortmaßnahmen
 
 - [ ] Incident-Kanal eröffnen
-
 - [ ] Incident Lead benennen
-
 - [ ] Statusseite aktualisieren
 
 # Eskalationsstufen
@@ -55,4 +53,4 @@ kubectl -n prod exec deploy/pgbouncer -- pgbouncer -R
 # Nach dem Incident
 
 > [!NOTE]
-> Postmortem innerhalb von 5 Werktagen, schuldfrei.X!
+> Postmortem innerhalb von 5 Werktagen, schuldfrei.X!.
