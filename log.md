@@ -1,6 +1,7 @@
 # Update Log
 
 ## 2026-09-20
+* **Move**: `engineering/on-call-handbuch-fuer-neue-bereitschaftsleute.md` moved to [On-Call-Handbuch für neue Bereitschaftsleute](/engineering/oncall-handbuch.md).
 * **Deletion**: Removed `engineering/ausfall-testseite.md` (Ausfall Testseite).
 * **Creation**: Established [Untitled](/untitled-6.md).
 * **Creation**: Established [Untitled](/untitled-5.md).
