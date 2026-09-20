@@ -1,6 +1,7 @@
 # Update Log
 
 ## 2026-09-20
+* **Deletion**: Removed `engineering/speed-check.md` (Speed Check).
 * **Creation**: Established [Latenz Test](/latenz-test.md).
 * **Creation**: Established [Speed Check](/engineering/speed-check.md).
 * **Creation**: Established [Untitled](/untitled-4.md).
