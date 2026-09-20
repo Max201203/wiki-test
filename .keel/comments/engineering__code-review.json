@@ -29,7 +29,11 @@
       "resolved": false,
       "anchor": null,
       "parentId": null,
-      "reactions": {}
+      "reactions": {
+        "🎉": [
+          "human:Max201203"
+        ]
+      }
     }
   ]
 }
