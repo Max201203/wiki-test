@@ -11,7 +11,11 @@
       "resolved": false,
       "anchor": "Fehlerbudget:",
       "parentId": null,
-      "reactions": {}
+      "reactions": {
+        "🤔": [
+          "human:Max201203"
+        ]
+      }
     }
   ]
 }
