@@ -9,49 +9,36 @@ tags:
   - oncall
 generated:
   by: keel-ai/openrouter/free
-  at: '2026-09-20T13:39:22Z'
+  at: '2026-09-20T13:40:22Z'
 ---
+
+title: Rollback Runbook
+type: Runbook
+status: stable
+trust: unverified
+tags: engineering, rollback, runbook, oncall
 
 # Auslöser
 
-Ein Rollback wird notwendig, wenn:
-- Deployments nach Produktion fehlschlagen
-- Smoke-Tests auf Staging oder Produktion fehlschlagen
-- Ein kritischer Bug in der aktuellen Version entdeckt wird
-- Ein Incident mit hoher Priorität deklariert wird
+- Deployment nach Produktion fehlgeschlagen
+- Smoke-Tests auf Staging oder Produktion fehlgeschlagen
+- Kritischer Bug in der aktuellen Version entdeckt
 
 # Ablauf
 
-## Vorbereitung
-
-1. Incident im Chat kanalisieren und Rollback-Entscheidung dokumentieren
-2. Letztes funktionierendes Image identifizieren (SHA-Tag aus CI)
-3. Betroffene Services und Namespaces listen
-
-## Ausführung
+1. Letztes funktionierendes Image identifizieren (SHA-Tag aus CI)
+2. Rollback aller betroffenen Services ausführen
+3. Status prüfen und Smoke-Tests auf Produktion bestätigen
 
 ```bash
-# Rollback aller Services im Production-Namespace
 kubectl -n prod rollout undo deployment/api --to=<letztes-functionierendes-SHA>
-kubectl -n prod rollout undo deployment/web --to=<letztes-functionierendes-SHA>
-kubectl -n prod rollout undo deployment/worker --to=<letztes-functionierendes-SHA>
-
-# Status prüfen
 kubectl -n prod rollout status deployment/api
-kubectl -n prod rollout status deployment/web
-kubectl -n prod rollout status deployment/worker
 ```
-
-## Validierung
-
-- Smoke-Tests auf Produktion ausführen
-- Metriken (Fehlerrate, Latenz, CPU) auf Normalniveau prüfen
-- Incident im Kanal als gelöst markieren
 
 # Wichtige Hinweise
 
 > [!CAUTION]
-> Ein Rollback der Anwendung macht **keine** Datenbankmigration rückgängig. Migrationen müssen immer abwärtskompatibel sein. Bei Datenbankproblemen separates Rollback-Verfahren für die DB anwenden.
+> Ein Rollback der Anwendung macht **keine** Datenbankmigration rückgängig. Migrationen müssen immer abwärtskompatibel sein.
 
 # Vernetzung
 
