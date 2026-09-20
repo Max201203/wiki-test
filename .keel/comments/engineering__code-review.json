@@ -9,7 +9,12 @@
       "body": "Die 400-Zeilen-Grenze funktioniert gut. Lassen wir so.",
       "createdAt": "2026-09-19T11:39:36.127Z",
       "resolved": true,
-      "anchor": null
+      "anchor": null,
+      "reactions": {
+        "👍": [
+          "human:Max201203"
+        ]
+      }
     }
   ]
 }
