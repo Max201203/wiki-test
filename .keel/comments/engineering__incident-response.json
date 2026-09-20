@@ -27,7 +27,11 @@
       "resolved": false,
       "anchor": null,
       "parentId": "c_mu9t29tf_8g1ua6",
-      "reactions": {}
+      "reactions": {
+        "👍": [
+          "human:Max201203"
+        ]
+      }
     }
   ]
 }
