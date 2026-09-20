@@ -1,6 +1,7 @@
 # Update Log
 
 ## 2026-09-20
+* **Deletion**: Removed `engineering/perf-probe-5.md` (Perf Probe 5).
 * **Creation**: Established [Perf Probe 5](/engineering/perf-probe-5.md).
 * **Creation**: Established [Perf Probe 4](/engineering/perf-probe-4.md).
 * **Creation**: Established [Perf Probe 3](/engineering/perf-probe-3.md).
