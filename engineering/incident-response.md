@@ -8,8 +8,8 @@ tags:
   - engineering
 status: draft
 generated:
-  by: human:Max201203
-  at: '2026-09-20T12:40:21Z'
+  by: keel-ai/openrouter/free
+  at: '2026-09-20T13:58:31Z'
 ---
 
 [TOC]
@@ -60,3 +60,9 @@ kubectl -n prod exec deploy/pgbouncer -- pgbouncer -R
 Das ist ein **TestKapitel,** um zu sehen wie sich das Wikitool verhält. Ich tippe hier einfach mal munter weiter, weil ich scjaien muss, dass alles passt. 
 
 ## Unterkapitel 1
+
+---
+
+## Siehe auch
+
+- [On-Call-Handbuch für neue Bereitschaftsleute](/engineering/oncall-handbuch.md) – Einstieg für Personen, die zum ersten Mal Bereitschaft haben.
