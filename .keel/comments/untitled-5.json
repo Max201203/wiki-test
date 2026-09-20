@@ -11,7 +11,11 @@
       "resolved": false,
       "anchor": "Moin",
       "parentId": null,
-      "reactions": {}
+      "reactions": {
+        "👍": [
+          "human:Max201203"
+        ]
+      }
     }
   ]
 }
