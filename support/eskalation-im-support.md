@@ -10,7 +10,10 @@ tags:
 status: stable
 generated:
   by: human:Max201203
-  at: '2026-09-19T11:38:45Z'
+  at: '2026-09-20T14:54:02Z'
+verified:
+  - by: human:Max201203
+    at: '2026-09-20T14:43:49Z'
 ---
 
 # Auslöser
