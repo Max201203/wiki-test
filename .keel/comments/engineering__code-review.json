@@ -30,6 +30,18 @@
       "anchor": null,
       "parentId": null,
       "reactions": {}
+    },
+    {
+      "id": "c_mu9sm6cj_qk3l5c",
+      "author": "human:Max201203",
+      "authorName": "Max201203",
+      "avatar": "https://avatars.githubusercontent.com/u/135325791?v=4",
+      "body": "Test von Claude – Anker-Check, wird gleich entfernt.",
+      "createdAt": "2026-09-20T12:28:59.683Z",
+      "resolved": false,
+      "anchor": "Ein Review soll Fehler finden",
+      "parentId": null,
+      "reactions": {}
     }
   ]
 }
