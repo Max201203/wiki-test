@@ -1,6 +1,7 @@
 # Update Log
 
 ## 2026-09-23
+* **Deletion**: Removed `zz-kundenliste/gamma-kg.md` (Gamma KG).
 * **Deletion**: Removed `zz-kundenliste/beta-ag.md` (Beta AG).
 * **Deletion**: Removed `zz-kundenliste/acme-gmbh.md` (Acme GmbH).
 * **Creation**: Established [Untitled](/untitled-11.md).
