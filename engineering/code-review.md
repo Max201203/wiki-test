@@ -9,13 +9,13 @@ tags:
 status: stable
 generated:
   by: human:Max201203
-  at: '2026-09-19T11:36:43Z'
+  at: '2026-09-23T12:17:40Z'
 order: 2
 ---
 
 # Ziel
 
-Ein Review soll Fehler finden und Wissen verteilen. Es ist kein Stilwettbewerb.
+Ein Review soll Fehler finden und Wissen <span style="color: rgb(180, 83, 9);">verteile</span>n. Es ist kein Stilwettbewerb.
 
 # Erwartungen
 
