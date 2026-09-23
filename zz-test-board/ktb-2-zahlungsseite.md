@@ -7,8 +7,9 @@ generated:
 key: KTB-2
 kind: Story
 parent: KTB-1
-state: Backlog
+state: In Progress
 created: '2026-09-23'
+started: '2026-09-23'
 ---
 
 
