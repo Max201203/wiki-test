@@ -8,6 +8,7 @@ branche: SaaS
 key: ZK-1
 state: Backlog
 created: '2026-09-23'
+kind: Task
 ---
 
 

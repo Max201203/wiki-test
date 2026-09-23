@@ -7,6 +7,7 @@ generated:
 key: ZK-2
 state: Backlog
 created: '2026-09-23'
+kind: Task
 ---
 
 
