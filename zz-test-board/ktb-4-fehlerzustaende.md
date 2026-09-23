@@ -7,9 +7,11 @@ generated:
 key: KTB-4
 parent: KTB-2
 estimate: 5
-state: Backlog
+state: Done
 kind: Subtask
 created: '2026-09-23'
+started: '2026-09-23'
+resolved: '2026-09-23'
 ---
 
 

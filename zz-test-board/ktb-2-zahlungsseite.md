@@ -7,9 +7,10 @@ generated:
 key: KTB-2
 kind: Story
 parent: KTB-1
-state: In Progress
+state: Done
 created: '2026-09-23'
 started: '2026-09-23'
+resolved: '2026-09-23'
 ---
 
 
