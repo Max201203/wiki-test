@@ -3,7 +3,7 @@ type: Ticket
 title: Für andere Nutzer nutzbar machen
 generated:
   by: human:Max201203
-  at: '2026-09-23T19:35:18Z'
+  at: '2026-09-23T19:35:40Z'
 key: GTMR-1
 kind: Task
 state: Backlog
