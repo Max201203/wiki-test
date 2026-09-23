@@ -126,14 +126,123 @@
       "id": "db_mudybhq8",
       "name": "TestTable",
       "folder": "testtable",
-      "mode": "table",
-      "properties": [],
+      "mode": "tasks",
+      "properties": [
+        {
+          "key": "state",
+          "name": "State",
+          "type": "state",
+          "options": [
+            {
+              "value": "Backlog",
+              "color": "grey",
+              "category": "todo"
+            },
+            {
+              "value": "To Do",
+              "color": "grey",
+              "category": "todo"
+            },
+            {
+              "value": "In Progress",
+              "color": "blue",
+              "category": "in_progress"
+            },
+            {
+              "value": "In Review",
+              "color": "purple",
+              "category": "in_progress"
+            },
+            {
+              "value": "Done",
+              "color": "green",
+              "category": "done"
+            },
+            {
+              "value": "Won't Do",
+              "color": "red",
+              "category": "cancelled"
+            }
+          ]
+        },
+        {
+          "key": "kind",
+          "name": "Type",
+          "type": "select",
+          "options": [
+            {
+              "value": "Epic",
+              "color": "purple"
+            },
+            {
+              "value": "Story",
+              "color": "green"
+            },
+            {
+              "value": "Task",
+              "color": "blue"
+            },
+            {
+              "value": "Bug",
+              "color": "red"
+            },
+            {
+              "value": "Subtask",
+              "color": "grey"
+            }
+          ]
+        },
+        {
+          "key": "priority",
+          "name": "Priority",
+          "type": "select",
+          "options": [
+            {
+              "value": "Urgent",
+              "color": "red"
+            },
+            {
+              "value": "High",
+              "color": "amber"
+            },
+            {
+              "value": "Medium",
+              "color": "blue"
+            },
+            {
+              "value": "Low",
+              "color": "grey"
+            }
+          ]
+        },
+        {
+          "key": "assignee",
+          "name": "Assignee",
+          "type": "person"
+        },
+        {
+          "key": "estimate",
+          "name": "Estimate",
+          "type": "number"
+        },
+        {
+          "key": "due",
+          "name": "Due",
+          "type": "date"
+        },
+        {
+          "key": "parent",
+          "name": "Parent",
+          "type": "parent"
+        }
+      ],
       "automation": {
         "startParents": true,
         "closeParents": true,
         "reopenParents": true
       },
-      "createdAt": "2026-09-23"
+      "createdAt": "2026-09-23",
+      "keyPrefix": "TEST"
     }
   ]
 }
