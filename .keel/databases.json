@@ -127,7 +127,27 @@
       "name": "zz Kundenliste",
       "folder": "zz-kundenliste",
       "mode": "table",
-      "properties": [],
+      "properties": [
+        {
+          "key": "branche",
+          "name": "Branche",
+          "type": "select",
+          "options": [
+            {
+              "value": "SaaS",
+              "color": "blue"
+            },
+            {
+              "value": "Handel",
+              "color": "green"
+            },
+            {
+              "value": "Industrie",
+              "color": "amber"
+            }
+          ]
+        }
+      ],
       "automation": {
         "startParents": true,
         "closeParents": true,
