@@ -356,6 +356,21 @@
           "key": "parent",
           "name": "Parent",
           "type": "parent"
+        },
+        {
+          "key": "kunde",
+          "name": "Kunde",
+          "type": "select",
+          "options": [
+            {
+              "value": "Intern",
+              "color": "blue"
+            },
+            {
+              "value": "Acme",
+              "color": "green"
+            }
+          ]
         }
       ],
       "automation": {
