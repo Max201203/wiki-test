@@ -8,18 +8,20 @@ tags:
   - howto
 status: stable
 generated:
-  by: keel-ai/openrouter/free
-  at: '2026-09-20T13:35:44Z'
+  by: human:Max201203
+  at: '2026-09-23T17:09:14Z'
 ---
 
 # Drucker einrichten
 
 ## Before you start
+
 - Drucker-Packung öffnen und alle Teile prüfen (Gerät, Kabel, Tintenpatronen/Papier)
 - Stromkabel und USB-/Netzwerkkabel bereithalten
 - Admin-Zugang zum Netzwerk/WLAN notieren
 
 ## Steps
+
 1. Drucker anschließen: Stromkabel einstecken und Gerät einschalten.
 2. Verbindung herstellen:
    - USB: Kabel an PC und Drucker anschließen → Windows/Linux/macOS erkennt ihn meist automatisch.
@@ -31,6 +33,7 @@ generated:
 4. Testseite drucken: Über Drucker-Menü oder vom PC aus drucken.
 
 ## If something goes wrong
+
 - Drucker wird nicht gefunden → Kabel prüfen / WLAN-Verbindung bestätigen / Neustart.
 - Schlechte Druckqualität → Patrone wechseln, Düse reinigen, Papierqualität anpassen.
 - Weiter Hilfe → siehe Support/Eskalation im Support (support/eskalation-im-support.md).
