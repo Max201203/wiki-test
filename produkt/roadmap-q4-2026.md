@@ -9,7 +9,7 @@ tags:
 status: draft
 generated:
   by: human:Max201203
-  at: '2026-09-19T11:50:30Z'
+  at: '2026-09-23T15:56:30Z'
 ---
 
 > [!NOTE]
@@ -19,9 +19,9 @@ generated:
 
 | Thema | Aufwand | Status |
 | --- | --- | --- |
-| Self-Service-Onboarding | L | <span data-status="blue">In Diskussion</span> |
-| Audit-Log für Kunden | M | <span data-status="green">Gesetzt</span> |
-| Mobile Ansicht | L | <span data-status="amber">Zurückgestellt</span> |
+| Self-Service-Onboarding | L |  |
+| Audit-Log für Kunden | M |  |
+| Mobile Ansicht | L |  |
 
 # Offene Fragen
 
@@ -32,3 +32,7 @@ generated:
 # Nicht in diesem Quartal
 
 Alles, was den [Event-Bus](/engineering/entscheidungen/adr-002-eigener-event-bus.md) betrifft. Diese Baustelle ist geschlossen.
+
+```
+Hi!
+```
