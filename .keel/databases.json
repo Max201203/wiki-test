@@ -356,6 +356,64 @@
           "key": "parent",
           "name": "Parent",
           "type": "parent"
+        },
+        {
+          "key": "status_prop",
+          "name": "status",
+          "type": "select",
+          "options": [
+            {
+              "value": "Backlog",
+              "color": "blue"
+            },
+            {
+              "value": "To Do",
+              "color": "green"
+            },
+            {
+              "value": "In Progress",
+              "color": "amber"
+            },
+            {
+              "value": "In Review",
+              "color": "purple"
+            },
+            {
+              "value": "Done",
+              "color": "teal"
+            },
+            {
+              "value": "Won't Do",
+              "color": "pink"
+            }
+          ]
+        },
+        {
+          "key": "category",
+          "name": "category",
+          "type": "select",
+          "options": [
+            {
+              "value": "Entwicklung",
+              "color": "blue"
+            },
+            {
+              "value": "Design",
+              "color": "green"
+            },
+            {
+              "value": "Recherche",
+              "color": "amber"
+            },
+            {
+              "value": "Testing",
+              "color": "purple"
+            },
+            {
+              "value": "Dokumentation",
+              "color": "teal"
+            }
+          ]
         }
       ],
       "automation": {
