@@ -126,7 +126,7 @@
       "id": "db_mudxsezb",
       "name": "zz Kundenliste",
       "folder": "zz-kundenliste",
-      "mode": "tasks",
+      "mode": "table",
       "properties": [
         {
           "key": "state",
