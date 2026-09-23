@@ -1,6 +1,7 @@
 # Update Log
 
 ## 2026-09-23
+* **Deletion**: Removed `du-bist-ein-waschbaer.md` (Du bist ein Waschbär).
 * **Creation**: Established [Untitled](/untitled-12.md).
 * **Deletion**: Removed `zz-kundenliste/gamma-kg.md` (Gamma KG).
 * **Deletion**: Removed `zz-kundenliste/beta-ag.md` (Beta AG).
