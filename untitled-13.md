@@ -7,12 +7,12 @@ tags:
 status: stable
 generated:
   by: human:Max201203
-  at: '2026-09-23T17:04:04Z'
+  at: '2026-09-23T17:08:40Z'
 ---
 
 | Name | Gefällt? | Kommentar |
 | --- | --- | --- |
 | Docket | Sehr gut | Bereits vergeben |
 | Wikket | Bisschen Tot | Geht |
-| mooring | geht  | [mooring.so  ](http://mooring.se)<br>oder <br>[mooringapp.de](http://mooringapp.de) ist verfügbar |
+| mooring | geht | [mooring.so ](http://mooring.se)<br>oder <br>[mooringapp.de](http://mooringapp.de) ist verfügbar |
 |  |  |  |
