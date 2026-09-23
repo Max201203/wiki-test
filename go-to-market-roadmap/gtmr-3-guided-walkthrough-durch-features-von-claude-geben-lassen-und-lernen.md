@@ -2,12 +2,13 @@
 type: Ticket
 title: Guided Walkthrough durch Features von Claude geben lassen und "lernen"
 generated:
-  by: keel-ai/openrouter/free
-  at: '2026-09-23T17:22:58Z'
+  by: human:Max201203
+  at: '2026-09-23T17:28:06Z'
 key: GTMR-3
 kind: Task
 state: Backlog
 created: '2026-09-23'
+assignee: Max201203
 ---
 
 - [ ] Guided Walkthrough durch Features von Claude geben lassen und "lernen"
