@@ -276,6 +276,11 @@
               "category": "in_progress"
             },
             {
+              "value": "QA",
+              "color": "blue",
+              "category": "in_progress"
+            },
+            {
               "value": "Done",
               "color": "green",
               "category": "done"
@@ -369,6 +374,10 @@
             {
               "value": "Acme",
               "color": "green"
+            },
+            {
+              "value": "Beta",
+              "color": "amber"
             }
           ]
         }
