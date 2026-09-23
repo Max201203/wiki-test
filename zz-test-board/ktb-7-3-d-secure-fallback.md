@@ -7,7 +7,7 @@ generated:
 key: KTB-7
 parent: KTB-2
 kind: Subtask
-state: Backlog
+state: To Do
 created: '2026-09-23'
 ---
 
