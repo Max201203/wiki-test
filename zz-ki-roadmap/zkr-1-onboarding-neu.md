@@ -8,8 +8,9 @@ key: ZKR-1
 kind: Epic
 priority: High
 kunde: Acme
-state: Backlog
+state: In Progress
 created: '2026-09-23'
+started: '2026-09-23'
 ---
 
 Ziel: neue Nutzer in unter 5 Minuten produktiv.

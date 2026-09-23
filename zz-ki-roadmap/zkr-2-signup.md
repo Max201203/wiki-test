@@ -7,9 +7,11 @@ generated:
 key: ZKR-2
 estimate: 3
 parent: ZKR-1
-state: Backlog
+state: Done
 kind: Story
 created: '2026-09-23'
+started: '2026-09-23'
+resolved: '2026-09-23'
 ---
 
 
