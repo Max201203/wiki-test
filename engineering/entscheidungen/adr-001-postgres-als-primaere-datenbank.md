@@ -10,7 +10,7 @@ tags:
 status: stable
 generated:
   by: human:Max201203
-  at: '2026-09-19T11:38:06Z'
+  at: '2026-09-23T16:00:22Z'
 verified:
   - by: human:Max201203
     at: '2026-09-19T09:00:00Z'
@@ -35,7 +35,7 @@ Wir brauchten 2025 eine primäre Datenbank für den Plattform-Monolithen. Erwart
 
 # Entscheidung
 
-**PostgreSQL 16.** Die Zugriffsmuster standen nicht vorab fest, und genau das schließt DynamoDB aus. Die Lasttests zeigten Reserve bis etwa das Zwanzigfache der heutigen Last.[^lasttest]
+**PostgreSQL 16.** Die Zugriffsmuster standen nicht vorab fest, und genau das schließt DynamoDB aus. Die Lasttests zeigten Reserve bis etwa das Zwanzigfache der heutigen Last.\[^lasttest\]
 
 # Konsequenzen
 
@@ -43,4 +43,4 @@ Wir brauchten 2025 eine primäre Datenbank für den Plattform-Monolithen. Erwart
 - JSONB nur für echte Freiformdaten, nicht als Ausrede für fehlende Modellierung
 - Ein Read-Replica-Setup wird nötig, sobald Reports die Schreiblast stören
 
-[^lasttest]: Lasttest 2025
+\[^lasttest\]: Lasttest 2025
