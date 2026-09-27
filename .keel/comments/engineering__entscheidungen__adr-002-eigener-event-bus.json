@@ -11,7 +11,11 @@
       "resolved": false,
       "anchor": "Nachrichten",
       "parentId": null,
-      "reactions": {}
+      "reactions": {
+        "❤️": [
+          "human:Max201203"
+        ]
+      }
     }
   ]
 }
