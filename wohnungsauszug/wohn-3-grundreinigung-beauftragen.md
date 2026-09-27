@@ -2,8 +2,8 @@
 type: Ticket
 title: Grundreinigung beauftragen
 generated:
-  by: keel-ai/openrouter/free
-  at: '2026-09-27T07:25:21Z'
+  by: human:Max201203
+  at: '2026-09-27T07:26:19Z'
 key: WOHN-3
 kind: Task
 priority: High
