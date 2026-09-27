@@ -9,8 +9,9 @@ kind: Task
 priority: High
 due: '2026-10-20'
 estimate: 3
-state: Backlog
+state: In Progress
 created: '2026-09-27'
+started: '2026-09-27'
 ---
 
 Professionelle Reinigung für die alte Wohnung beauftragen und Termin vereinbaren.
