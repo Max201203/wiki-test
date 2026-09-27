@@ -9,7 +9,7 @@ tags:
 status: deprecated
 generated:
   by: human:Max201203
-  at: '2026-09-19T11:38:23Z'
+  at: '2026-09-27T07:27:10Z'
 order: 2
 ---
 
@@ -30,4 +30,4 @@ Ein eigener Event-Bus auf Postgres-Basis mit `LISTEN`/`NOTIFY`.
 - Kein Replay, also kein Wiederaufsetzen nach einem Fehler
 - Zwei Entwicklerinnen waren dauerhaft mit Betrieb beschäftigt
 
-Ersetzt durch einen verwalteten Dienst. Die Migration ist in [Deployment](/engineering/deployment.md) beschrieben.
+Ersetzt durch einen verwalteten Dienst. Die Migration ist in<span style="color: rgb(192, 57, 43);"> </span>[<span style="color: rgb(192, 57, 43);">Deploym</span>ent](/engineering/deployment.md) beschrieben.
