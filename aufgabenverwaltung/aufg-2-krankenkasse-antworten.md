@@ -2,8 +2,8 @@
 type: Ticket
 title: Krankenkasse antworten
 generated:
-  by: keel-ai/openrouter/free
-  at: '2026-09-23T15:31:34Z'
+  by: human:Max201203
+  at: '2026-09-27T07:33:12Z'
 key: AUFG-2
 state: To Do
 kind: Task
