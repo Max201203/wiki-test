@@ -9,7 +9,7 @@ kind: Task
 priority: High
 due: '2026-09-30'
 estimate: 2
-state: Backlog
+state: To Do
 created: '2026-09-27'
 ---
 
