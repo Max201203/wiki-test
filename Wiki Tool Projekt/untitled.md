@@ -9,7 +9,7 @@ tags:
 status: stable
 generated:
   by: human:Max201203
-  at: '2026-09-23T19:34:27Z'
+  at: '2026-09-27T07:31:14Z'
 ---
 
 # 1. Schritt
