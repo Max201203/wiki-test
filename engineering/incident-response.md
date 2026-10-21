@@ -9,7 +9,7 @@ tags:
 status: draft
 generated:
   by: human:Max201203
-  at: '2026-09-23T16:11:34Z'
+  at: '2026-10-21T10:35:09Z'
 ---
 
 [TOC]
@@ -49,6 +49,19 @@ kubectl -n prod exec deploy/pgbouncer -- pgbouncer -R
 
 > [!TIP]
 > Fehlerbudget: $B = 1 - \frac{U}{T}$
+
+# Hi 
+
+- [x] afs
+
+|  |  |  |
+| --- | --- | --- |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
 
 # Nach dem Incident
 
